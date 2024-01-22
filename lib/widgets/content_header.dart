@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:netflix_clone/models/content_model.dart';
 import 'package:netflix_clone/widgets/widgets.dart';
 import 'package:video_player/video_player.dart';
-import 'package:video_player_web/video_player_web.dart';
 
 class ContentHeader extends StatelessWidget {
   const ContentHeader({super.key, required this.featuredContent});
